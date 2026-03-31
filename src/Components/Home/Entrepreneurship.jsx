@@ -154,7 +154,7 @@ export default function Entrepreneurship() {
              Entrepreneurial <span className="text-emerald-600">Ventures</span>
            </motion.h2>
            <p className="text-lg text-stone-600 leading-relaxed max-w-xl mx-auto">
-             Developing and scaling 0→1 startups that bridge industry gaps and foster collaboration.
+             Building and scaling 0→1 platforms that address complex market gaps and drive innovation.
            </p>
         </div>
 

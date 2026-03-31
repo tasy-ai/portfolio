@@ -30,10 +30,10 @@ export default function Home() {
         <main>
           <Hero />
           <Suspense fallback={<PageLoader />}>
-            <Experience/>
-            <Achievements />
-            <Skills/>
             <Entrepreneurship/>
+            <Skills/>
+            <Achievements />
+            <Experience/>
             <Projects project={project} />
             <Contact />
           </Suspense>

@@ -166,10 +166,10 @@ export default function Experience() {
             viewport={{ once: true }}
             className="text-4xl font-bold text-stone-900 mb-6"
            >
-             Professional <span className="text-emerald-600">Journey</span>
+             Professional <span className="text-emerald-600">Experience</span>
            </motion.h2>
            <p className="text-lg text-stone-600 leading-relaxed max-w-xl mx-auto">
-             Tracing the path from foundational learning to professional consulting and entrepreneurial leadership.
+             Tracing the path from foundational learning to professional consulting and strategic initiatives.
            </p>
         </div>
 
